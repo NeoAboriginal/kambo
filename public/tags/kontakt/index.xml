@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Kontakt on Kambo JuJu</title>
+    <link>https://kambo.juju.casa/tags/kontakt/</link>
+    <description>Recent content in Kontakt on Kambo JuJu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>nb-no</language>
+    <lastBuildDate>Tue, 17 Mar 2020 00:00:00 +0800</lastBuildDate>
+    <atom:link href="https://kambo.juju.casa/tags/kontakt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kontakt meg</title>
+      <link>https://kambo.juju.casa/kontakt/</link>
+      <pubDate>Tue, 17 Mar 2020 00:00:00 +0800</pubDate>
+      <guid>https://kambo.juju.casa/kontakt/</guid>
+      <description>Skriv til meg via dette kontaktskjemaet</description>
+    </item>
+  </channel>
+</rss>

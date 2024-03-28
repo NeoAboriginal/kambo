@@ -1,0 +1,50 @@
+baseURL: https://kambo.juju.casa/
+languageCode: nb-no
+title: Kambo JuJu
+theme: ["PaperMod"]
+
+enableRobotsTXT: "true"
+ShowReadingTime: "false"
+ShowBreadCrumbs: "true"
+ShowWordCount: "true"
+comments: "true"
+
+params:
+  profileMode:
+    enabled: true
+    title: "Kambo JuJu" # optional default will be site title
+    subtitle: "Kambo seremonier i Norge siden 2017 🐸"
+    imageUrl: "img/logo.png" # optional
+    imageTitle: "Kambo JuJu logo" # optional
+    imageWidth: "225" # custom size
+    imageHeight: "170" # custom size
+    env: production
+    buttons:
+      - name: Lær mer
+        url: "/kambo"
+      - name: Start din reise her
+        url: "https://cloud.juju.casa/index.php/apps/forms/s/354P5JfMjBeWy7gBBz7ns6At"
+
+  socialIcons: # optional
+    - name: "Email"
+      url: "mailto:kambo@juju.casa"
+    - name: "Telegram"
+      url: "https://t.me/jujudario"
+    - name: "IAKP"
+      url: "https://iakp.org/user/637/>"
+     
+menu:
+  main:
+    - identifier: kambo
+      name: Hva er kambo?
+      url: /kambo/
+      weight: 10
+    - identifier: referanser
+      name: Referanser
+      url: /referanser/
+      weight: 20
+    - identifier: om meg
+      name: Om meg
+      url: /om-meg/
+
+

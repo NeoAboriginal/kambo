@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Kambo JuJu</title>
+    <link>https://kambo.juju.casa/</link>
+    <description>Recent content on Kambo JuJu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>nb-no</language>
+    <lastBuildDate>Tue, 17 Mar 2020 00:00:00 +0800</lastBuildDate>
+    <atom:link href="https://kambo.juju.casa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kontakt meg</title>
+      <link>https://kambo.juju.casa/kontakt/</link>
+      <pubDate>Tue, 17 Mar 2020 00:00:00 +0800</pubDate>
+      <guid>https://kambo.juju.casa/kontakt/</guid>
+      <description>Skriv til meg via dette kontaktskjemaet</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://kambo.juju.casa/priser/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://kambo.juju.casa/priser/</guid>
+      <description>Prisoversikt Denne prisoversikten gjelder standardbehandlinger i Norge. Prisene nedenfor inkluderer konsultasjon og kartlegging i forkant (screening) og dersom du selv ønsker det; oppfølgingssamtale i etterkant. Prisene inkluderer ikke overnatting ved lengre reiser.
+Pris pr. behandling pr. person:
+kr. 750,- ved betaling i Monero / annen krypto kr. 1000,- ved betaling i kontanter kr. 1111,- ved betaling via Vipps eller via bankoverføring Disse prisene gjelder for seremonier ved oppmøte i Sundvollen.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://kambo.juju.casa/sted-utstyr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://kambo.juju.casa/sted-utstyr/</guid>
+      <description>Sted og utstyr en guide for deg som er vert for kambo-sirkler
+Ønsker rundt stedet: Nok plass til alle deltakerne (inkl. et sted å ligge på ryggen etter selve seremonien) Ingen kjæledyr eller tilskuere under seremonien (gjelder også på vei til toalett) Lett tilgjengelig toalett (helst på samme etasje og ingen hindre på veien) Puter og pledd (vi sitter på gulvet, og de aller fleste ønsker et pledd når de slapper av etter kambo) Gulvet bør ikke være for kaldt/hardt Mulighet til å bruke salvie/palo santo innendørs Ønsket utstyr: Toalettpapir/tørkepapir Bøtte til hver av deltakerne Drikkeglass Større vannmugger/litermåler etc.</description>
+    </item>
+    <item>
+      <title>Hva er kambo?</title>
+      <link>https://kambo.juju.casa/kambo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://kambo.juju.casa/kambo/</guid>
+      <description>Kambo er et sekret fra frosken Phyllomedusa bicolor som har sitt naturlige habitat i øvre Amazonas. Denne tradisjonelle medisinen har blitt brukt blant urbefolkninger i Amazonas. Froskens sekret har bl.a. blitt brukt for økt energi, selvinnsikt, klarhet, utholdenhet og fokus. Men også som en kraftig renselse som jobber på et fysisk, psykisk, emosjonelt, mentalt og spirituelt plan.
+I regnskogen så har kambo hatt 3 hovedfunksjoner:
+Bekjempe infeksjoner og sykdommer (malaria, slangebittt, parasitter).</description>
+    </item>
+    <item>
+      <title>Om meg</title>
+      <link>https://kambo.juju.casa/om-meg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://kambo.juju.casa/om-meg/</guid>
+      <description>Jeg er en sertifisert kambo-utøver, trent av Master Practioner Karen Kanya-Darke og har jobbet med kambo siden 2017. Siden 2020 som Advanced Kambo Practitioner.
+Som utøver følger jeg etiske og profesjonelle retningslinjer (IAKP Code of Ethics and Profesional Practice) utformet av vår felles organisasjon for kambo-utøvere; IAKP. Jeg bruker kun kambo som har blitt sanket på en etisk og bærekraftig måte.
+Min rolle som utøver er å guide deg praktisk og energetisk gjennom det som dukker opp under kambo-behandlingen, slik at du føler deg ivaretatt i din intense reise med denne tradisjonelle medisinen.</description>
+    </item>
+    <item>
+      <title>Referanser</title>
+      <link>https://kambo.juju.casa/referanser/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://kambo.juju.casa/referanser/</guid>
+      <description>Her finner du et lite utvalg av tilbakemeldinger fra noen av mine tidligere klienter.</description>
+    </item>
+  </channel>
+</rss>

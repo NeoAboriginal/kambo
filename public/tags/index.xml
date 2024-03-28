@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Kambo JuJu</title>
+    <link>https://kambo.juju.casa/tags/</link>
+    <description>Recent content in Tags on Kambo JuJu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>nb-no</language>
+    <lastBuildDate>Tue, 17 Mar 2020 00:00:00 +0800</lastBuildDate>
+    <atom:link href="https://kambo.juju.casa/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kontakt</title>
+      <link>https://kambo.juju.casa/tags/kontakt/</link>
+      <pubDate>Tue, 17 Mar 2020 00:00:00 +0800</pubDate>
+      <guid>https://kambo.juju.casa/tags/kontakt/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Amazonas</title>
+      <link>https://kambo.juju.casa/tags/amazonas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://kambo.juju.casa/tags/amazonas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Biologi</title>
+      <link>https://kambo.juju.casa/tags/biologi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://kambo.juju.casa/tags/biologi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Frosk</title>
+      <link>https://kambo.juju.casa/tags/frosk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://kambo.juju.casa/tags/frosk/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kambo</title>
+      <link>https://kambo.juju.casa/tags/kambo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://kambo.juju.casa/tags/kambo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tilbakemeldinger</title>
+      <link>https://kambo.juju.casa/tags/tilbakemeldinger/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://kambo.juju.casa/tags/tilbakemeldinger/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Utøver</title>
+      <link>https://kambo.juju.casa/tags/ut%C3%B8ver/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://kambo.juju.casa/tags/ut%C3%B8ver/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
